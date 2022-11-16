@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olesu
 - 👀 I’m interested in computer stuff
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [by mail]
 
